@@ -1,0 +1,20 @@
+
+#footer
+title=Cheese And Crackers
+sub-title= 
+home-page=CheeseAndCrackers.craft/Home
+
+
+#banner
+image=https://rawgit.com/Ferferite/pixelshow/948043d3d3a53703157922f860cc6a721cce7da2/2018-05-24_20.37.40.png
+text=Cheese And Crackers
+
+
+#navigation
+color=-13553359
+item-link-1=CheeseAndCrackers.craft/home
+item-label-1=Home
+item-link-2=-
+item-label-2=-
+item-link-3=-
+item-label-3=-
