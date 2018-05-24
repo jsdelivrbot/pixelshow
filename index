@@ -12,9 +12,9 @@ text=Cheese And Crackers
 
 #navigation
 color=-13553359
-item-link-1=CheeseAndCrackers.craft/home
-item-label-1=Home
-item-link-2=CheeseAndCrackers/about
-item-label-2=About
+item-link-1=CheeseAndCrackers.craft/about
+item-label-1=About
+item-link-2=-
+item-label-2=-
 item-link-3=-
 item-label-3=-
